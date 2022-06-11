@@ -4,7 +4,7 @@ Calificación del laboratorio
 """
 
 import sys
-
+import preguntas
 import soluciones
 
 # import preguntas
